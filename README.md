@@ -1,9 +1,9 @@
 # FactorAnalysis
 
-__Correlation matrix.__
-observed correlation matrix. 
-reproduced correlation matrix. 
-residual correlation matrix. 
+__Correlation matrix.__  
+observed correlation matrix.  
+reproduced correlation matrix.  
+residual correlation matrix.  
 
 __Rotation factor.__
 1)  orthogonal.  
