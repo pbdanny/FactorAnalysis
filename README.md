@@ -6,9 +6,9 @@ __Correlation matrix.__
 - residual correlation matrix.  
 
 __Rotation factor.__
-1)  Orthogonal.(PCA)  
+1)  Orthogonal.
     _loading matrix_ : correlation between observed variable vs factor.
-2)  Oblique. (FA)  
+2)  Oblique. 
     _factor correlation matrix_ : correlation between factor vs factor.  
     _structure matrix_ : correlation variable vs factor.  
     _pattern matrix_ : correlation each factors and each variable.  
@@ -30,3 +30,6 @@ __Step to compute FA/PCA__.
     Correlation matrix = Factor loading x Factor loading'.  
     
 _Factor Loading_ = correlation between factor and variable, First column = First factor , each rows = correlation with each variables
+
+__Orthogonal Rotation__
+maximized correlation factor-variable
