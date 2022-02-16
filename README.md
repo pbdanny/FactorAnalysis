@@ -32,4 +32,6 @@ __Step to compute FA/PCA__.
 _Factor Loading_ = correlation between factor and variable, First column = First factor , each rows = correlation with each variables
 
 __Orthogonal Rotation__
-maximized correlation factor-variable
+maximized correlation factor <-> variable  
+
+_varimax_ high factor loading -> higher / low factor loadin -> lower
